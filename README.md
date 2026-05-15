@@ -1,4 +1,4 @@
-# PurePlateAppux-project
+# PurePlateApp-UI&UX-project
 Pure Plate is an eco-conscious food delivery application designed to address the trust and sustainability challenges faced by Muslim consumers and halal restaurant owners in non-Muslim countries.
 
 ## Problem Statement
