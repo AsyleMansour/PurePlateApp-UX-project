@@ -28,6 +28,24 @@ Pure Plate combines trust, usability, and sustainability by:
 - Supporting restaurant owners
 - Reducing food waste
 
+##  UI Screenshots
+<p align="center">
+  <img src="https://github.com/AsyleMansour/PurePlateApp-UX-project/blob/main/Screenshot%202026-04-04%20195452.png?raw=true" width="200"/>
+  <img src="https://github.com/AsyleMansour/PurePlateApp-UX-project/blob/main/Screenshot%202026-04-04%20195848.png?raw=true" width="200"/>
+  <img src="https://github.com/AsyleMansour/PurePlateApp-UX-project/blob/main/Screenshot%202026-04-04%20200014.png?raw=true" width="200"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/AsyleMansour/PurePlateApp-UX-project/blob/main/Screenshot%202026-04-04%20200143.png?raw=true" width="200"/>
+  <img src="https://github.com/AsyleMansour/PurePlateApp-UX-project/blob/main/Screenshot%202026-04-04%20200312.png?raw=true" width="200"/>
+  <img src="https://github.com/AsyleMansour/PurePlateApp-UX-project/blob/main/Screenshot%202026-04-04%20200404.png?raw=true" width="200"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/AsyleMansour/PurePlateApp-UX-project/blob/main/Screenshot%202026-04-04%20204059.png?raw=true" width="200"/>
+  <img src="https://github.com/AsyleMansour/PurePlateApp-UX-project/blob/main/Screenshot%202026-04-28%20185641.png?raw=true" width="200"/>
+</p>
+
 ## Future Improvements
 - Accessibility enhancements
 - Advanced feature integration (AI-based recommendations, smarter filtering)
